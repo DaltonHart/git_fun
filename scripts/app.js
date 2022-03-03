@@ -10,6 +10,9 @@
  * One time commands
  *    - init 
  *    - remote (depends on setup)
+ *    -- add 
+ *    -- remove
+ *    -- set-url
  * 
  * Work flow commands
  *      - add -> two things -- add to the next commit (staged) + init tracking
