@@ -28,6 +28,10 @@
  *    - fork 
  *    - set upstream 
  * -----------------------------------
+ * 
+ *  Check out commitzen!! 
+ *  @url https://github.com/commitizen/cz-cli
+ * 
  */
 
 console.log("hello");
